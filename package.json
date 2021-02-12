@@ -1,0 +1,25 @@
+{
+  "name": "react_searchbyemployee",
+  "version": "1.0.0",
+  "description": "react-directory",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd search-by-employee && npm start",
+    "build": "cd search-by-employee && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aroseca15/React_SearchByEmployee.git"
+  },
+  "keywords": [
+    "start",
+    "build"
+  ],
+  "author": "Amanda MacDonald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aroseca15/React_SearchByEmployee/issues"
+  },
+  "homepage": "https://github.com/aroseca15/React_SearchByEmployee#readme"
+}
